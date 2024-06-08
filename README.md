@@ -1,3 +1,14 @@
+## Demo Video
+
+[Demo](https://drive.google.com/file/d/11JH5ptgvUdgZjDhEaIIm29A_GGCyc868/view?usp=sharing)
+
+## About
+
+This Project is created using Nextjs, Typescript, Tailwind for syling. Used WalletConnect to connect wallets to the application, CoinGecko API for coin data and charts, 0X for token swap.
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
